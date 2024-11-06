@@ -11,7 +11,7 @@ between different sections, making it simple for visitors to quickly access the 
 ---
 
 ## Live Demo 🌐
-- Check out the live demo of the project at [Daniels Website](https://omarrsakr.github.io/Daniels-Website/).
+- Check out the live demo of the project at [`Daniels Website`](https://omarrsakr.github.io/Daniels-Website/).
 
 ---
 
